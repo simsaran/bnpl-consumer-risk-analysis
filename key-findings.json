@@ -1,0 +1,16 @@
+{
+  "total_consumers": 800,
+  "total_transactions": 4879,
+  "high_exposure_pct": 22.0,
+  "avg_peak_plans_high_exposure": 5.5,
+  "avg_monthly_commitment_high_exposure_cad": 395.49,
+  "avg_awareness_high_exposure_pct": 30.6,
+  "total_late_fees_cad": 10680.0,
+  "avg_late_fees_per_high_exposure_cad": 43.91,
+  "missed_payment_rate_high_exposure_pct": 28.0,
+  "missed_payment_rate_occasional_pct": 3.0,
+  "top_category": "Fast Fashion (Shein, Temu, ASOS)",
+  "requirements_total": 10,
+  "must_have_requirements": 5,
+  "requirements_met_by_no_platform": 1
+}
