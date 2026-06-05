@@ -15,7 +15,7 @@ A consumer risk analysis of Canadian Buy Now Pay Later usage across 800 syntheti
 
 ## Live app
 
-[Launch the BNPL Consumer Risk Dashboard](your-streamlit-link-here)
+[Launch the BNPL Consumer Risk Dashboard](https://bnpl-consumer-risk-analysis-2026.streamlit.app/)
 
 ---
 
